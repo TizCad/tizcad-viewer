@@ -1,4 +1,4 @@
-# TizCad Viewer [Web/Windows/Linux/Android]
+# TizCad Viewer [Web/Windows/MacOS/Linux/Android]
 
 **[⚡ Try Web Version](https://tizcad.github.io/)**
 
