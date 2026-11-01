@@ -1,4 +1,6 @@
-# TizCad Viewer [Windows/Linux/Android]
+# TizCad Viewer [Web/Windows/Linux/Android]
+
+**[⚡ Try Web Version](https://tizcad.github.io/)**
 
 ## A free viewer OBJ STEP STL PLY (available in Releases).
 
